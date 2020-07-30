@@ -212,7 +212,25 @@ h3 {
 
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) {
+	#servicos h2 {
+		font-size: 1.9em;
+	}
 
+	#servicos h3 {
+		font-size: 1.5em;
+	}
+
+	#recursos h2 {
+		font-size: 2.5em;
+	}
+
+	#recursos h3 {
+		font-size: 2em;
+	}
+
+	footer h4 {
+	margin-top: 20px;
+	}
 }
 
 /* Small devices (landscape phones, 576px and up) */
@@ -220,8 +238,9 @@ h3 {
 	h1 {
 		font-size: 3em;
 	}
-	a.btn.btn-custom.btn-lg.btn.roxo {
-		font-size: 10px;
+	
+	footer h4 {
+	margin-top: 20px;
 	}
 }
 
@@ -230,15 +249,57 @@ h3 {
 	h1 {
 		font-size: 4em;
 	}
-	a.btn.btn-custom.btn-lg.btn.roxo {
-		font-size: 10px;
+
+	#home a {
+		font-size: 30px;
 	}
 
+	#home h1 {
+		font-size: 4em;
+	}
+
+	#servicos h2 {
+		font-size: 2.2em;
+	}
+
+	#servicos h3 {
+		font-size: 2em;
+	}
+
+	footer h4 {
+		margin-top: 20px;
+	}
+
+	img.logo-footer {
+		margin-left: -40px;
+	
+	}
+
+	.redes-sociais {
+		padding-left: 15px;
+		margin: 0;
+	}
+
+	.sociais {
+		margin-top: 20px;
+	}
+
+	footer .col-md-4 {
+		padding: 0;
+	}
 }
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) and (max-width: 1199.98px) {
 	h1 {
+		font-size: 5em;
+	}
+
+	#home a {
+		font-size: 30px;
+	}
+
+	#home h1 {
 		font-size: 5em;
 	}
 }
@@ -247,5 +308,13 @@ h3 {
 @media (min-width: 1200px) {
 	h1 {
 		font-size: 6em;
+	}
+
+	#home a {
+		font-size: 30px;
+	}
+
+	#home h1 {
+		font-size: 5em;
 	}
 }
