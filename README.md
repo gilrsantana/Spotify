@@ -7,3 +7,8 @@ It has only the frontend face and the home page, but is ready to be used as insp
 HTML, CSS, Bootstrap and responsiveness was the tools that build this project.
 
 Resources as grid, container, footer, header, nav, navbar, ul, li, icons, favicon, etc was utilized in this project. 
+
+You can see it in https://spotify-alternative.netlify.app/
+
+Website view
+![](spotify-website-view.png)
