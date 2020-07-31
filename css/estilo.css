@@ -112,6 +112,10 @@ nav.navbar-transparente {
 	font-weight: 700;
 }
 
+.carousel-control-next, .carousel-control-prev {
+	width: 5%;
+}
+
 /*
  * >>>Estrutura de conteúdos<<<
  */
